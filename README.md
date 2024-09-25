@@ -1,11 +1,11 @@
 ### <div align="center">Hey there 👋, I'm Durgesh</div>  
   
 
-- 👨‍🎓 I am a B.Tech. student in Computer Science and Engineering at Nirma University.
+- 👨‍🎓 I'm software engineer at crest data.
   
   
 
-- 🌱 I’m currently learning MERN and Flutter development  
+- 🌱 I’m currently learning Flutter development  
   
 
 - ❓ Ask me about anything related to competitive coding, flutter development and related.  
