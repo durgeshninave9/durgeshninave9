@@ -1,12 +1,7 @@
 ### <div align="center">Hey there 👋, I'm Durgesh</div>  
   
 
-- 👨‍🎓 I'm software engineer at crest data.
-  
-  
-
-- 🌱 I’m currently learning Flutter development  
-  
+- 👨‍🎓 I'm software engineer.
 
 - ❓ Ask me about anything related to competitive coding, flutter development and related.  
   
